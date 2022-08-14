@@ -1,0 +1,32 @@
+body{
+    font-size: 14px;
+    background: hsl(30, 38%, 92%);
+}
+img{
+    width: 100%;
+}
+
+.card{
+    width: 540px;
+}
+.container{
+    margin:auto;
+    padding: auto;
+}
+.mytext{
+    font-family: "Fraunces";
+}
+.mytext2{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+}
+.mytextc{
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+.border1{
+    border: 1px solid red;
+    border-radius: 2%;
+}
+
+
